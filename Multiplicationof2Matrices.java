@@ -47,7 +47,7 @@ public class Multiplicationof2Matrices {
 				}
 			}
 		}
-		System.out.println("The sum of 2 matrices is : ");
+		System.out.println("The Product of 2 matrices is : ");
 		for(int i = 0 ; i < m ; i++)
 		{
 			for(int j = 0 ; j < n ; j++)
