@@ -1,3 +1,5 @@
+//EQUALITY PRINTER//
+
 package Recursion;
 import java.util.Scanner ;
 
