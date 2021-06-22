@@ -1,3 +1,5 @@
+//EQUAL SUM CHECKER//
+
 package Recursion;
 import java.util.Scanner;
 
