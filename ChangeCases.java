@@ -1,4 +1,4 @@
-//Change Case of a STRING//
+//Change Case of a STRING LIKE UPPERCASE OR LOWERCASE//
 
 package Recursion;
 import java.util.Scanner;
