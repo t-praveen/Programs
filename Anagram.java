@@ -1,4 +1,5 @@
-//Anagram - An anagram of a string is another string that contains the same characters, only the order of characters can be different. For example, “abcd” and “dabc” are an anagram of each other. //
+//Anagram - An anagram of a string is another string that contains the same characters, only the order of characters can be different. For example, â€œabcdâ€ and â€œdabcâ€ are an anagram of each other. //
+
 
 package Recursion;
 import java.util.Scanner ; 
@@ -21,10 +22,12 @@ public class Anagram {
 	      Arrays.sort(charArray2);
 	      boolean result = Arrays.equals(charArray1, charArray2);
 
-	      if(result) {
+	      if(result) 
+	      {
 	        System.out.println(str1 + " and " + str2 + " are anagram.");
 	      }
-	      else {
+	      else 
+	      {
 	        System.out.println(str1 + " and " + str2 + " are not anagram.");
 	      }
 	    }
