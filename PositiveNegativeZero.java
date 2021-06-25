@@ -1,3 +1,5 @@
+//PROGRAM TO CHECK THE ENTERED NUMBER IS NEGATIVE , POSITIVE OR ZERO//
+
 package Recursion;
 import java.util.Scanner ;
 
