@@ -1,5 +1,4 @@
 package programs;
-
 import java.util.Scanner;
 
 public class AllFactors {
